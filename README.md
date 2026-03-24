@@ -1,3 +1,7 @@
+[中文版](README_ZH.md) | **English**
+
+---
+
 # SyncBlock.lsp — AutoCAD Block Synchronization Tool
 
 **Fast and intelligent tool to synchronize geometry between multiple blocks in AutoCAD.**
