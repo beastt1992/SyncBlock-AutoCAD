@@ -1,3 +1,7 @@
+**中文版** | [English](README.md)
+
+---
+
 # SyncBlock.lsp — AutoCAD 圖塊同步工具
 
 **快速、智慧地將主底圖的內容同步到多個子圖塊。**
